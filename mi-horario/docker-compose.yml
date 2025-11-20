@@ -4,3 +4,4 @@ services:
     container_name: vue-frontend
     ports:
       - "8080:80"
+
